@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>2026년 경기도교육청 하반기 사립학교 감사 사례 및 S2B 계약 업무 교육</title>
+  <style>
+    *{box-sizing:border-box;margin:0;padding:0;font-family:'Pretendard',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif}
+    :root{--bg:#f4f6f9;--card:#fff;--muted:#718096;--text:#1a202c;--panel:#f8fafc;--border:#e2e8f0;--btn:#2563eb;--btn-hover:#1d4ed8}
+    html,body{height:100%}
+    body{background:var(--bg);color:#333;display:flex;align-items:center;justify-content:center;padding:20px;min-height:100vh}
+    a{color:inherit}
+    .container{background:var(--card);max-width:650px;width:100%;padding:40px 30px;border-radius:12px;box-shadow:0 10px 25px rgba(0,0,0,.08);text-align:center}
+    /* Skip link */
+    .skip-link{position:absolute;left:-999px;top:auto;width:1px;height:1px;overflow:hidden}
+    .skip-link:focus{position:static;width:auto;height:auto;margin:8px 16px;padding:8px 12px;border-radius:6px;background:#111;color:#fff;z-index:1000}
+    header{margin-bottom:8px}
+    h1{font-size:1.4rem;color:var(--text);line-height:1.4;word-break:keep-all;margin-bottom:8px}
+    .subtitle{font-size:.9rem;color:var(--muted);margin-bottom:30px;font-weight:400;line-height:1.5;word-break:keep-all}
+    .file-list{list-style:none;display:flex;flex-direction:column;gap:16px;text-align:left;padding:0;margin:0}
+    .file-item{background:var(--panel);border:1px solid var(--border);border-radius:8px;padding:20px;display:flex;flex-direction:column;gap:12px;transition:border-color .2s ease}
+    .file-item:hover{border-color:#cbd5e1}
+    .file-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+    .file-title{font-size:1.05rem;font-weight:600;color:#2d3748;word-break:keep-all}
+    .btn-download{display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;font-size:.95rem;font-weight:500;color:#fff;background:var(--btn);border:none;border-radius:6px;text-decoration:none;cursor:pointer;transition:background-color .2s ease}
+    .btn-download:hover,.btn-download:focus{background:var(--btn-hover);outline:none}
+    .btn-download:focus-visible{outline:3px solid rgba(37,99,235,.25);outline-offset:3px}
+    .bottom-image-container{margin-top:32px;padding-top:20px;border-top:1px solid #f1f5f9;display:flex;justify-content:center;align-items:center}
+    .bottom-image{max-width:60%;height:auto;border-radius:8px;object-fit:contain}
+    @media (max-width:480px){.container{padding:24px}.bottom-image{max-width:100%}}
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#main">주요 내용으로 건너뛰기</a>
+
+  <div class="container" role="region" aria-labelledby="page-title">
+    <header>
+      <h1 id="page-title">2026년 경기도교육청 하반기<br>사립학교 감사 사례 및 S2B 계약 업무 교육</h1>
+      <p class="subtitle">2026. 9. 3.(목) , 9. 10.(목) [13:00 ~ 17:00]</p>
+    </header>
+
+    <main id="main">
+      <ul class="file-list" aria-label="교육 자료 목록">
+        <li class="file-item" role="listitem">
+          <div class="file-row">
+            <span class="file-title">Ⅰ. 학교 현장의 감사 사례</span>
+            <a class="btn-download"
+               href="https://drive.google.com/file/d/1zyVdOnAK6ljem4iVBmikkeV-gdbE7J4F/view?usp=sharing"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Ⅰ. 학교 현장의 감사 사례 다운로드(새 탭)">
+              다운로드
+            </a>
+          </div>
+        </li>
+
+        <li class="file-item" role="listitem">
+          <div class="file-row">
+            <span class="file-title">Ⅱ. 사업담당자와의 협력을 통한 S2B 시스템 활용 사례</span>
+            <a class="btn-download"
+               href="https://drive.google.com/file/d/1uHIE3PUBLOth6hp5KXCvhfFdIKwnhpa-/view?usp=sharing"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Ⅱ. 사업담당자와의 협력을 통한 S2B 시스템 활용 사례 다운로드(새 탭)">
+              다운로드
+            </a>
+          </div>
+        </li>
+
+        <li class="file-item" role="listitem">
+          <div class="file-row">
+            <span class="file-title">Ⅲ. S2B 활용을 통한 효율적 수의계약</span>
+            <a class="btn-download"
+               href="https://drive.google.com/file/d/1zHzva0wfOutnxJ8A55zB-585jRTOCQpD/view?usp=drive_link"
+               target="_blank" rel="noopener noreferrer"
+               aria-label="Ⅲ. S2B 활용을 통한 효율적 수의계약 다운로드(새 탭)">
+              다운로드
+            </a>
+          </div>
+        </li>
+      </ul>
+
+      <div class="bottom-image-container">
+        <img
+          class="bottom-image"
+          src="https://lh3.googleusercontent.com/d/1Oc9M9DQT1yS_f7e-d2q5EnIBhPc0tHzJ"
+          alt="교육 안내 관련 이미지" />
+      </div>
+    </main>
+  </div>
+</body>
+</html>
