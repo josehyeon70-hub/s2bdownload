@@ -1,3 +1,4 @@
+```html
 <!doctype html>
 <html lang="ko">
 <head>
@@ -26,7 +27,10 @@
     .btn-download:focus-visible{outline:3px solid rgba(37,99,235,.25);outline-offset:3px}
     .bottom-image-container{margin-top:32px;padding-top:20px;border-top:1px solid #f1f5f9;display:flex;justify-content:center;align-items:center}
     .bottom-image{max-width:60%;height:auto;border-radius:8px;object-fit:contain}
-    @media (max-width:480px){.container{padding:24px}.bottom-image{max-width:100%}}
+    @media (max-width:480px){
+      .container{padding:24px}
+      .bottom-image{max-width:100%}
+    }
   </style>
 </head>
 <body>
@@ -38,6 +42,7 @@
         2026년 경기도교육청 하반기<br>
         사립학교 감사 사례 및 S2B 계약 업무 교육
       </h1>
+
       <p class="subtitle">
         2026. 9. 3.(목) , 9. 10.(목) [13:00 ~ 17:00]
       </p>
@@ -46,9 +51,13 @@
     <main id="main">
       <ul class="file-list" aria-label="교육 자료 목록">
 
+        <!-- Ⅰ. 학교 현장의 감사 사례 -->
         <li class="file-item" role="listitem">
           <div class="file-row">
-            <span class="file-title">Ⅰ. 학교 현장의 감사 사례</span>
+            <span class="file-title">
+              Ⅰ. 학교 현장의 감사 사례
+            </span>
+
             <a class="btn-download"
                href="https://drive.google.com/file/d/1zyVdOnAK6ljem4iVBmikkeV-gdbE7J4F/view?usp=sharing"
                target="_blank"
@@ -59,11 +68,13 @@
           </div>
         </li>
 
+        <!-- Ⅱ. 사업담당자와의 협력을 통한 S2B 시스템 활용 사례 -->
         <li class="file-item" role="listitem">
           <div class="file-row">
             <span class="file-title">
               Ⅱ. 사업담당자와의 협력을 통한 S2B 시스템 활용 사례
             </span>
+
             <a class="btn-download"
                href="https://drive.google.com/file/d/1p_2npo8MBtR75TFdnhv8IorQY_fD-7Z0/view?usp=drive_link"
                target="_blank"
@@ -74,9 +85,13 @@
           </div>
         </li>
 
+        <!-- Ⅲ. S2B 활용을 통한 효율적 수의계약 -->
         <li class="file-item" role="listitem">
           <div class="file-row">
-            <span class="file-title">Ⅲ. S2B 활용을 통한 효율적 수의계약</span>
+            <span class="file-title">
+              Ⅲ. S2B 활용을 통한 효율적 수의계약
+            </span>
+
             <a class="btn-download"
                href="https://drive.google.com/file/d/1zHzva0wfOutnxJ8A55zB-585jRTOCQpD/view?usp=drive_link"
                target="_blank"
@@ -89,13 +104,16 @@
 
       </ul>
 
+      <!-- 깃허브 저장소에 poster.png 파일을 함께 올려서 연결 -->
       <div class="bottom-image-container">
         <img
           class="bottom-image"
           src="poster.png"
           alt="교육 안내 포스터" />
       </div>
+
     </main>
   </div>
 </body>
 </html>
+```
